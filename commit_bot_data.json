@@ -1,1 +1,1 @@
-{"date": "2026-05-24T00:00:00", "commit": 12, "message": "feat: implement data validation schema for input posts"}
+{"date": "2026-01-28T00:00:00", "commit": 11, "message": "refactor: make signal weights configurable via YAML"}
