@@ -1,1 +1,1 @@
-{"date": "2026-05-07T00:00:00", "commit": 17, "message": "refactor: extract signal detection logic to separate module"}
+{"date": "2026-03-16T00:00:00", "commit": 16, "message": "chore: add data quality metrics to scoring output"}
