@@ -1,1 +1,1 @@
-{"date": "2026-04-29T00:00:00", "commit": 19, "message": "docs: add API documentation for outreach generation"}
+{"date": "2026-04-27T00:00:00", "commit": 18, "message": "fix: handle missing author title gracefully in scoring"}
