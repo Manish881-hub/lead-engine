@@ -1,0 +1,11 @@
+signals:
+  activation:    {weight: 30, pain: "Users sign up but don't reach aha moment"}
+  adoption:      {weight: 28, pain: "Built AI but team won't adopt"}
+  hallucination: {weight: 25, pain: "Accuracy / trust in LLM output"}
+  integration:   {weight: 20, pain: "Plumbing / infra fragility"}
+  cost:          {weight: 22, pain: "Margins collapsing under model spend"}
+  eval:          {weight: 18, pain: "Can't measure quality reliably"}
+  copilot_usage: {weight: 27, pain: "Coding assistant low accept rate"}
+
+target_roles: [Founder, Co-founder, CEO, CTO, VP Engineering, Head of Product, VP Product, Chief Product Officer]
+target_company_keywords: [AI chatbot, AI assistant, AI writing, AI coding, coding assistant, AI search, copilot, AI chat, generative AI, GenAI, LLM app]
