@@ -1,1 +1,1 @@
-{"date": "2026-02-02T00:00:00", "commit": 4, "message": "docs: add API documentation for outreach generation"}
+{"date": "2026-05-22T00:00:00", "commit": 3, "message": "fix: handle malformed JSON lines in raw_posts.jsonl"}
